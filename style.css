@@ -4,3 +4,14 @@ body{
 
   font-family: "Bitcount Prop Single Ink", system-ui;
 }
+
+header{
+  font-size: 50px;
+}
+h1{
+  font-size: 30px;
+}
+P{
+  font-size: 30px;
+}
+
